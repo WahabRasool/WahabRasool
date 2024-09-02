@@ -40,9 +40,11 @@
 
 <p><img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs?username=wahabrasool&show_icons=true&locale=en&layout=compact" alt="wahabrasool" style = " "/></p>
 
-<img align="right" src="https://camo.githubusercontent.com/7bcb2a263b27250facb87d435193bdd8181d31c91af985c477094d7e53ffd741/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d77616861627261736f6f6c2673686f775f69636f6e733d74727565266c6f63616c653d656e" alt="wahabrasool" data-canonical-src="https://github-readme-stats.vercel.app/api?username=wahabrasool&amp;show_icons=true&amp;locale=en" style="max-width: 50%;margin-top: 44px; hight: 400px; width: 300px">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wahabrasool&show_icons=true&locale=en" alt="GitHub Stats" height="200px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahabrasool" alt="GitHub Streak Stats" height="200px" />
+</p>
 
-<img align="left" src="https://camo.githubusercontent.com/e92563852a9ffe5ed5a421f9917d25086e800b16594a5e3a7092b89819e15556/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d77616861627261736f6f6c26" alt="wahabrasool" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=wahabrasool&amp;" style="max-width: 100%; hight: 400px; width: 300px">
 
 ###
 
