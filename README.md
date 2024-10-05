@@ -66,6 +66,12 @@
 </p>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif" alt="Fun Animation" height="150px"/>
+</p>
+
+
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wahabrasool&show_icons=true&locale=en" alt="GitHub Stats" height="200px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahabrasool" alt="GitHub Streak Stats" height="200px" />
 </p>
