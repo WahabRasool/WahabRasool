@@ -61,12 +61,12 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wahabrasool&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="200px"/>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WahabRasool&show_icons=true&locale=en&layout=compact" alt="WahabRasool" hight="200px" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif" alt="Fun Animation" height="150px"/>
+  <img src="https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif" alt="Fun Animation" height="100px"/>
 </p>
 
 
