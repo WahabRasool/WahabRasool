@@ -61,11 +61,11 @@
 </p>
 
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WahabRasool&show_icons=true&locale=en&layout=compact" alt="WahabRasool" height="150px" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WahabRasool&show_icons=true&locale=en&layout=compact" alt="WahabRasool" height="150px" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif" alt="Fun Animation" height="100px"/>
 </p>
 
