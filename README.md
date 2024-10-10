@@ -42,7 +42,7 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wahabrasool" alt="wahabrasool" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=WahabRasool)](https://github.com/WahabRasool/github-profile-trophy)
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
