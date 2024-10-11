@@ -62,7 +62,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WahabRasool&show_icons=true&locale=en&layout=compact" alt="WahabRasool" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WahabRasool&cache_seconds=1800" height="200px"/>
 </p>
 
 <p align="center">
