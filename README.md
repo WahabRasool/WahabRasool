@@ -61,18 +61,16 @@
 </p>
 
 
+
 <p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=WahabRasool&show_icons=true&locale=en&layout=compact" alt="WahabRasool" height="150px"/>
+  <a href="https://github.com/WahabRasool">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahabRasool&layout=compact&langs_count=10" height="150px"/></a>&nbsp;
+  <a href=""><img src="https://github-readme-stats.vercel.app/api?username=WahabRasool&count_private=true&show_icons=true" height="150px"/></a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif" alt="Fun Animation" height="100px"/>
-</p>
-
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wahabrasool&show_icons=true&locale=en" alt="GitHub Stats" height="150px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahabrasool" alt="GitHub Streak Stats" height="150px" />
 </p>
 
