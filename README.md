@@ -64,7 +64,7 @@
 
 <p align="center">
   <a href="https://github.com/WahabRasool">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahabRasool&layout=compact&langs_count=10" height="150px"/></a>&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahabRasool&layout=compact&langs_count=10" height="150px"/>
   <a href=""><img src="https://github-readme-stats.vercel.app/api?username=WahabRasool&count_private=true&show_icons=true" height="150px"/></a>
 </p>
 
