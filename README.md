@@ -31,12 +31,15 @@
 
 
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WahabRasool&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" height="150px"/><br/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahabRasool&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WahabRasool&theme=shadow_green&hide_border=false" height="150px"/><br/>
+</div>
 
-<p  align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=WahabRasool&show_icons=true&locale=en&layout=compact" alt="WahabRasool" height="150px"/></p>
 
-<p  align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=WahabRasool&show_icons=true&locale=en" alt="WahabRasool" height="150px"/></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=WahabRasool&" alt="WahabRasool" height="150px"/></p>
+
 
 
 
