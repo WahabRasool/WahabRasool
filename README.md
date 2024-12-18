@@ -23,7 +23,7 @@
 <h1 align="center">Hi 👋, I'm Wahab Rasool</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WahabRasool" alt="WahabRasool" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wahabrasool" alt="wahabrasool" /></a> </p>
 
 
 <h3 align="center">Languages and Tools:</h3>
@@ -33,7 +33,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wahabrasool&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" height="150px"/><br/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahabRasool&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150px"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wahabrasool&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WahabRasool&theme=shadow_green&hide_border=false" height="150px"/><br/>
 </div>
 
