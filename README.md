@@ -33,10 +33,11 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Wahabrasool&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" height="150px"/><br/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wahabrasool&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150px"/>
- <img src="https://github-readme-streak-stats.herokuapp.com?user=WahabRasool&theme=shadow_green&hide_border=false" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wahabrasool&theme=shadow_green&hide_border=false&show_icons=true&locale=en&layout=compact" alt="Wahabrasool" height="150px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=WahabRasool&theme=shadow_green&hide_border=false" height="150px" />
 <br/>
 </div>
+
 
 
 
